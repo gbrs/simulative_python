@@ -3,6 +3,7 @@ print(type([(2, 4), {7: 3}]))
 
 
 """
+https://lms.simulative.ru/demo/10/9000/7WLHIGNL3F
 ------------------
 
 
